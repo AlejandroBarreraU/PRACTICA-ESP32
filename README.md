@@ -59,5 +59,5 @@ Una vez ejecutado, verás los valores dentro del monitor serial como se muestra 
 
 ## Créditos
 
-Desarrollador por el Ing. Diego Jasso y el Ing. Alejandro Barrera.
+Desarrollado por el Ing. Diego Jasso y el Ing. Alejandro Barrera.
 
