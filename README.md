@@ -36,7 +36,7 @@ void loop() {
 } 
 ```
 Paso 2. Instalar la libreria de DHT sensor library for ESPx como se muestra en la siguente imagen.
-![]()
+![](wokwi  1.png)
 Paso 3. Añadir sensor DHT22.
 ![]()
 Paso 4.Hacer la conexion de DHT22 con la ESP32 como se muestra en la siguente imagen.
