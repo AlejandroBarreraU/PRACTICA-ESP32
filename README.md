@@ -37,15 +37,15 @@ void loop() {
 ```
 Paso 2. Instalar la libreria de DHT sensor library for ESPx como se muestra en la siguente imagen.
 
-![](https://github.com/AlejandroBarreraU/PRACTICA-ESP32/blob/main/wokwi%20%201.png?raw=true)
+![](https://github.com/AlejandroBarreraU/PRACTICA-ESP32/blob/main/instalar%20librerias.png?raw=true)
 
 Paso 3. Añadir sensor DHT22.
 
-![](https://github.com/AlejandroBarreraU/PRACTICA-ESP32/blob/main/wokwi%202.png?raw=true)
+![](https://github.com/AlejandroBarreraU/PRACTICA-ESP32/blob/main/agregar%20sensor.png?raw=true)
 
 Paso 4.Hacer la conexion de DHT22 con la ESP32 como se muestra en la siguente imagen.
 
-![](https://github.com/AlejandroBarreraU/PRACTICA-ESP32/blob/main/wokwi%203.png?raw=true)
+![](https://github.com/AlejandroBarreraU/PRACTICA-ESP32/blob/main/hacer%20las%20conexiones.png?raw=true)
 
 ### Instrucciones de operación.
 1. Iniciar simulador.
@@ -55,7 +55,7 @@ Paso 4.Hacer la conexion de DHT22 con la ESP32 como se muestra en la siguente im
 ## Resultados
 Una vez ejecutado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 
-![](https://github.com/AlejandroBarreraU/PRACTICA-ESP32/blob/main/wokwi%204.png?raw=true)
+![](https://github.com/AlejandroBarreraU/PRACTICA-ESP32/blob/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20-%20Google%20Chrome%2019_01_2024%2011_59_23%20a.%20m..png?raw=true)
 
 ## Créditos
 
