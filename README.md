@@ -36,17 +36,18 @@ void loop() {
 } 
 ```
 Paso 2. Instalar la libreria de DHT sensor library for ESPx como se muestra en la siguente imagen.
-![](wokwi  1.png)
+![](https://github.com/AlejandroBarreraU/PRACTICA-ESP32/blob/main/wokwi%20%201.png?raw=true)
 Paso 3. Añadir sensor DHT22.
-![]()
+![](https://github.com/AlejandroBarreraU/PRACTICA-ESP32/blob/main/wokwi%202.png?raw=true)
 Paso 4.Hacer la conexion de DHT22 con la ESP32 como se muestra en la siguente imagen.
-![]()
+![](https://github.com/AlejandroBarreraU/PRACTICA-ESP32/blob/main/wokwi%203.png?raw=true)
 ### Instrucciones de operación.
 1. Iniciar simulador.
 2. Visualizar los datos en el monitor serial.
 3. Colocar la temperatura y humedad dando doble click al sensor DHT11
 ## Resultados
 Una vez ejecutado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
+![](https://github.com/AlejandroBarreraU/PRACTICA-ESP32/blob/main/wokwi%204.png?raw=true)
 ## Créditos
 Desarrollador por el Ing. Diego Jasso y el Ing. Alejandro Barrera.
 
