@@ -12,7 +12,7 @@ La Esp32 es utilizada en un entorno de adquision de datos, por lo tanto se utili
 Para esta practica necesitamos ingresar al simulador WOKWI.
 ### INSTRUCCIONES DE PREPARACIÓN DEL ENTORNO
 Abrir la terminal de programación y colocar la siguente codigo:
-#include "DHTesp.h"
+``` #include "DHTesp.h"
 #include <LiquidCrystal_I2C.h>
 
 const int DHT_PIN = 15;
@@ -23,7 +23,7 @@ void setup() {
 
   Serial.begin(115200);
   dhtSensor.setup(DHT_PIN, DHTesp::DHT22);
-}
+} ```
 
 void loop() {
 
