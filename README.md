@@ -6,7 +6,7 @@ La Esp32 es utilizada en un entorno de adquision de datos, por lo tanto se utili
 ## MATERIAL NECESARIO
 + WOKWI
 + Tarjeta ESP 32
-+ Sensor DHT11
++ Sensor DHT22
 ## INSTRUCCIONES
 ### REQUISITOS PREVIOS
 Para esta practica necesitamos ingresar al simulador WOKWI.
@@ -50,7 +50,7 @@ Paso 4.Hacer la conexion de DHT22 con la ESP32 como se muestra en la siguente im
 ### Instrucciones de operación.
 1. Iniciar simulador.
 2. Visualizar los datos en el monitor serial.
-3. Colocar la temperatura y humedad dando doble click al sensor DHT11
+3. Colocar la temperatura y humedad dando doble click al sensor DHT22
 
 ## Resultados
 Una vez ejecutado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
